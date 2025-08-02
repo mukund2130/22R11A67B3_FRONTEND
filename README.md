@@ -20,7 +20,6 @@ A simple and lightweight **React-based URL Shortener** that works entirely on th
 ## 🛠️ Tech Stack
 
 - React
-- Tailwind CSS
 - localStorage (for simulating short URL mappings)
 
 ## 🧠 How It Works
