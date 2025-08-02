@@ -9,7 +9,7 @@ A simple and lightweight **React-based URL Shortener** that works entirely on th
 - Shorten long URLs instantly
 - Auto-generate or provide a custom short path
 - Simulated redirection using localStorage
-- Simple and clean UI using Tailwind CSS
+- Simple and clean UI 
 - Fully client-side (no backend required)
 
 ## 🚀 Live Demo
